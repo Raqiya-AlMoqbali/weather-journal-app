@@ -75,24 +75,6 @@ const postData = async (url = '', data = {}) => {
         throw error; // Propagate the error to the calling code
     }
 };
-/*
-        if (!response.ok) {
-            const errorMessage = await response.text();
-            throw new Error(`Error ${response.status}: ${errorMessage}`);
-        }
-
-        return await response.json(); // Return the parsed JSON response
-    } catch (error) {
-      console.error("POST request error:", error);
-        if (error.response) {
-        const errorText = await error.response.text();
-         console.error("Error response text:", errorText);
-}
-      throw error; // Propagate the error to the calling code
-
-
-    }
-}; */
 
 /* Function to GET Project Data */
 const updateUI = async () => {
