@@ -1,6 +1,7 @@
 # Weather Journal App
 
-Welcome to the Weather Journal App repository. This repository contains a simple web application that allows users to log their feelings along with the current weather conditions based on their location.
+Welcome to the Weather Journal App repository. This project create an asynchronous web app that uses Web API and user data to dynamically update the UI for a Weather-Journal App.
+This project allows users to log their feelings along with their zip location the current weather conditions based on .
 
 ## Introduction
 
