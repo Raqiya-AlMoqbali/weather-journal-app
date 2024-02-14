@@ -1,6 +1,6 @@
 # Weather Journal App
 
-Welcome to the Weather Journal App repository by [Raqiya Al Moqbali](https://github.com/Raqiya-AlMoqbali). This repository contains a simple web application that allows users to log their feelings along with the current weather conditions based on their location.
+Welcome to the Weather Journal App repository. This repository contains a simple web application that allows users to log their feelings along with the current weather conditions based on their location.
 
 ## Introduction
 
