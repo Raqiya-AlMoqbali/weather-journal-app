@@ -1,11 +1,7 @@
 # Weather Journal App
 
 Welcome to the Weather Journal App repository. This project create an asynchronous web app that uses Web API and user data to dynamically update the UI for a Weather-Journal App.
-This project allows users to log their feelings along with their zip location the current weather conditions based on .
-
-## Introduction
-
-The Weather Journal App provides users with a convenient way to journal their emotions alongside the weather conditions at their location. Whether you want to document your mood on a sunny day or express your feelings during a rainy afternoon, this app helps you track your emotional well-being in relation to the weather.
+This project allows users to log their feelings along with their zip location to get date and temperature according to their zip code.
 
 ## Features
 
@@ -27,10 +23,9 @@ To get started with the Weather Journal App, follow these steps:
 
 2. Open the project directory and navigate to the `index.html` file.
 3. Open the `index.html` file in your preferred web browser to launch the Weather Journal App.
-4. Allow the browser to access your location when prompted, so the app can fetch current weather data.
-5. Enter your feelings or thoughts in the provided text area and click the "Generate" button to log your journal entry.
-6. View the dynamically updated UI displaying your journal entry along with the current weather conditions.
-7. Feel free to explore additional functionalities or customize the app according to your preferences.
+4. Enter your feelings and zip code in the provided text area and click the "Generate" button to log your journal entry.
+5. View the dynamically updated UI displaying your journal entry along with the current weather conditions.
+6. Feel free to explore additional functionalities or customize the app according to your preferences.
 
 ## Dependencies
 
